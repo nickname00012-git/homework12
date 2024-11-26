@@ -10,6 +10,7 @@ public class Main {
         System.out.println("<<<<  Homework 12 (Classes and Methods) >>>>");
         System.out.println();
 
+
         int taskN = 0;
 
         // Task 1
